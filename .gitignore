@@ -1,0 +1,81 @@
+# Project exclude paths
+/.gradle/
+/Flashcards/task/out/
+/Flashcards/task/out/production/classes/
+/Flashcards/task/out/test/classes/
+/Flashcards (1)/task/build/
+/Flashcards (1)/task/out/
+/Flashcards (1)/task/out/production/classes/
+/Flashcards (1)/task/out/test/classes/
+/Topics/ArrayList/Concat positive numbers/out/
+/Topics/ArrayList/Concat positive numbers/out/production/classes/
+/Topics/ArrayList/Creating list/out/
+/Topics/ArrayList/Creating list/out/production/classes/
+/Topics/ArrayList/Find the nearest number/out/
+/Topics/ArrayList/Find the nearest number/out/production/classes/
+/Topics/ArrayList/Output the list's elements/out/
+/Topics/ArrayList/Output the list's elements/out/production/classes/
+/Topics/ArrayList/Theory/out/
+/Topics/ArrayList/Theory/out/production/classes/
+/Topics/Command-line arguments/Basic calculator/out/
+/Topics/Command-line arguments/Basic calculator/out/production/classes/
+/Topics/Command-line arguments/Get the game mode/out/
+/Topics/Command-line arguments/Get the game mode/out/production/classes/
+/Topics/Command-line arguments/Parameters and their values/out/
+/Topics/Command-line arguments/Parameters and their values/out/production/classes/
+/Topics/Command-line arguments/The index of an argument/out/
+/Topics/Command-line arguments/The index of an argument/out/production/classes/
+/Topics/Command-line arguments/Theory/out/
+/Topics/Command-line arguments/Theory/out/production/classes/
+/Topics/Generics and Object/Boxes are not just objects_/out/
+/Topics/Generics and Object/Boxes are not just objects_/out/production/classes/
+/Topics/Generics and Object/Correct the usage of non-generic class/out/
+/Topics/Generics and Object/Correct the usage of non-generic class/out/production/classes/
+/Topics/Generics and Object/Initialize an object of a generic class/out/
+/Topics/Generics and Object/Initialize an object of a generic class/out/production/classes/
+/Topics/Generics and Object/Theory/out/
+/Topics/Generics and Object/Theory/out/production/classes/
+/Topics/Introduction to generic programming/Correct the program/out/
+/Topics/Introduction to generic programming/Correct the program/out/production/classes/
+/Topics/Introduction to generic programming/Pastry packing optimization/out/
+/Topics/Introduction to generic programming/Pastry packing optimization/out/production/classes/
+/Topics/Introduction to generic programming/Theory/out/
+/Topics/Introduction to generic programming/Theory/out/production/classes/
+/Topics/Random/Generate random numbers/out/
+/Topics/Random/Generate random numbers/out/production/classes/
+/Topics/Random/Theory/out/
+/Topics/Random/Theory/out/production/classes/
+/Topics/The Collections Framework overview/Blacklist/out/
+/Topics/The Collections Framework overview/Blacklist/out/production/classes/
+/Topics/The Collections Framework overview/Squares list/out/
+/Topics/The Collections Framework overview/Squares list/out/production/classes/
+/Topics/The Collections Framework overview/Theory/out/
+/Topics/The Collections Framework overview/Theory/out/production/classes/
+/Topics/The List interface/Greek letters/out/
+/Topics/The List interface/Greek letters/out/production/classes/
+/Topics/The List interface/The longest string in the list/out/
+/Topics/The List interface/The longest string in the list/out/production/classes/
+/Topics/The List interface/Theory/out/
+/Topics/The List interface/Theory/out/production/classes/
+/Topics/The Map interface/Counting words/out/
+/Topics/The Map interface/Counting words/out/production/classes/
+/Topics/The Map interface/Creating a map/out/
+/Topics/The Map interface/Creating a map/out/production/classes/
+/Topics/The Map interface/Displaying pairs/out/
+/Topics/The Map interface/Displaying pairs/out/production/classes/
+/Topics/The Map interface/Modifying a map/out/
+/Topics/The Map interface/Modifying a map/out/production/classes/
+/Topics/The Map interface/Theory/out/
+/Topics/The Map interface/Theory/out/production/classes/
+/Topics/The Set interface/Output elements/out/
+/Topics/The Set interface/Output elements/out/production/classes/
+/Topics/The Set interface/Removing elements/out/
+/Topics/The Set interface/Removing elements/out/production/classes/
+/Topics/The Set interface/Strict superset/out/
+/Topics/The Set interface/Strict superset/out/production/classes/
+/Topics/The Set interface/Theory/out/
+/Topics/The Set interface/Theory/out/production/classes/
+/Topics/What are collections/Initialize a collection/out/
+/Topics/What are collections/Initialize a collection/out/production/classes/
+/Topics/What are collections/Theory/out/
+/Topics/What are collections/Theory/out/production/classes/
